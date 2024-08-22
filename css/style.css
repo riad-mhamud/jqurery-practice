@@ -1,0 +1,22 @@
+.boxdesign{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: red;
+}
+#box2{
+    background-color: green;
+}
+#box3{
+    background-color: blue;
+}
+
+
+#collas,#tex{
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    padding: 100px;
+    background-color: red;
+    margin: 20px;
+}
